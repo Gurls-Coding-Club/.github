@@ -1,5 +1,8 @@
 # Hey, this is us 🤗  
 
+![image](https://github.com/user-attachments/assets/bfcb4a18-ba01-41a2-9762-20ee35bdeec9)
+
+
 We are **G:URLs**, a coding club dedicated to empowering and connecting **[FLINTA](https://en.wikipedia.org/wiki/FLINTA*)** developers of all backgrounds. Our mission? To create an inclusive space where learning, collaboration, and innovation thrive. From beginner-friendly workshops to deep-dive sessions on advanced topics, we’re here to support your journey in tech. 🚀  
 
 ## 🌍 A community built on learning and support  
