@@ -15,7 +15,7 @@ At G:URLs, we believe that coding is more than just writing software, it’s abo
 Whether you're new to coding or an experienced developer, there’s a place for you in our community! Here’s how you can participate:  
 
 - 🎟 **Attend an event** – Join our meetups, workshops, and coding sessions. Find our upcoming events **[here](https://lu.ma/gurlscodingclub)**.  
-- 🎤 **Share your knowledge** – Want to present a project or discuss a topic? Reach out to us via email: `codingclubvienna@gmail.com`.  
+- 🎤 **Share your knowledge** – Want to present a project or discuss a topic? Reach out to us via email: `info@gurlscodingclub.com`.  
 - 📢 **Stay connected** – Follow us for updates on upcoming events and opportunities:  
   - [Instagram](https://www.instagram.com/gurlscodingclubvienna/)  
   - [Discord](https://discord.gg/MNe4vxCJ)  
